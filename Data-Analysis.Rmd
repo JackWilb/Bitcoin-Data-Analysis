@@ -1,0 +1,14 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+### By Jack Wilburn
+
+## Libraries
+
+```{r}
+library(ff)
+library(tidyverse)
+```
+
